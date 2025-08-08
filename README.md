@@ -21,4 +21,5 @@
 <a href="https://lin.ee/LWEJhGV" target="_blank" 
    style="display:block;padding:15px;margin:10px auto;width:80%;background:#06C755;color:white;font-size:18px;border-radius:8px;text-decoration:none;">
     💬 LINE
-</a>
+</a> [💬 LINE](https://lin.ee/cGW5rJxE)
+
